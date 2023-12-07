@@ -2,4 +2,4 @@
 
 A simple JavaScript Blackjack game.
 
-Visit to see it in action.
+Visit https://harmonious-praline-679937.netlify.app/ to see it in action.
