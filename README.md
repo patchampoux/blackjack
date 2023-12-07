@@ -1,5 +1,5 @@
-# Blackjack Game
+# Blackjack
 
-A simple JavaScript Blackjack Game.
+A simple JavaScript Blackjack game.
 
 Visit to see it in action.
